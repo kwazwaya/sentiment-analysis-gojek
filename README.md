@@ -25,7 +25,7 @@ The dataset used in this project is:
 
 Source:
 
-Kaggle — https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia
+Kaggle: https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia
 
 For this analysis, only reviews from Gojek application version **4.8.x** are used.
 
